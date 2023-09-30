@@ -31,22 +31,22 @@ Using Tableau interactive visualization, we can answer the store sales questions
 
 <img width="437" alt="Screenshot 2023-09-30 at 2 02 08 PM" src="https://github.com/Winxent/Store-Trend-Analysis/assets/146320825/3fbff8bf-538d-4b5f-9e30-6c3921df1e39">
 
-By clicking on the west region, the interactive dashboard will only shows west regional information. From Sales State Geographic symbol map, the biggest circle indicates California has the highest sales. 
+By clicking on the west region, the interactive dashboard will only shows west regional information. From Sales State Geographic symbol map, the biggest circle indicates California has the highest sales. By hovering the mouse on top of the map we can view the acture sales at $457,688.
 
 ### 2. How many unique TOTAL ORDERS received in WEST region?
 
 <img width="785" alt="Screenshot 2023-09-30 at 2 08 54 PM" src="https://github.com/Winxent/Store-Trend-Analysis/assets/146320825/6c218ebe-815e-43e3-b172-47b922c64fdc">
 
-Again by clicking to any west region, the total order will changed to indicate only west regional's total order.
+Again by clicking to any west region, the total order will changed to indicate only west regional's total order of #1611
 
 ### 3. In SOUTH region, which SUB-CAT has highest sales?
 
 <img width="830" alt="Screenshot 2023-09-30 at 2 11 46 PM" src="https://github.com/Winxent/Store-Trend-Analysis/assets/146320825/e4cdf582-d76b-4ec1-ad23-ead2c2e98439">
 
-By clicking on South region from the interactive dashboard, we can see that Cunsumer segment phones sub-category has the highest sales.
+By clicking on South region from the interactive dashboard, we can see that consumer segment phones sub-category has the highest sales of $31K
 
 ### 4. What are the TOTAL SALES of sub-cat CHAIRS in CONSUMER segment?
-From the Top 5 Subcat.Sales bar chart, consumer chair has about 173K sales.
+From the Top 5 Subcat.Sales bar chart, consumer chair has about $173K sales.
 
 ### 5. Which SHIPPING MODE has lowest PROFIT in EAST region?
 
