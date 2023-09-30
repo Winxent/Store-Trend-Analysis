@@ -8,6 +8,8 @@ Datasets provided: https://drive.google.com/file/d/1ZS_NQCydGnny5t4G-7WnFtxfB1W-
 
 The Excel datasheets were reviewed, and three sheets were received: Orders, People, and Returns. Details of all sales, profit, orders, regions, and products are contained in the Orders data. The names of salespeople and their respective regions are found in the People sheet. The Order IDs of returned orders can be found in the Return sheet. 
 
+![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
+
 # Using Tableau
 The 'Region' detail from the Orders table can be mapped with the 'Region' in the People table to track salespeople. The databases can be connected based on region. Similarly, the 'Order ID' from the Orders table can be mapped with the 'Order ID' in the Return table to track regionally returned orders. Information like this indicates that the blending of information from these tables can be used to answer our analysis questions.
 
