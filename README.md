@@ -20,7 +20,7 @@ The 'Region' detail from the Orders table can be mapped with the 'Region' in the
 # Dashboard
 Interactive Dashboard: https://public.tableau.com/shared/8GQHHX53X?:display_count=n&:origin=viz_share_link
 
-<img width="1369" alt="Screenshot 2023-09-30 at 2 08 07 PM" src="https://github.com/Winxent/Store-Trend-Analysis/assets/146320825/e5b68da9-92ab-4271-9966-f9ae1788056b">
+<img width="1394" alt="Screenshot 2023-09-30 at 2 23 21 PM" src="https://github.com/Winxent/Store-Trend-Analysis/assets/146320825/adccfdda-e917-4c50-9111-26b8ad62c3e0">
 
 ![rainbow](https://github.com/Winxent/portfolio/assets/146320825/5dc438d2-e138-4db0-97a0-e5ae8c3473e8)
 
